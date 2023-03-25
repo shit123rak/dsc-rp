@@ -1,0 +1,13 @@
+{
+    "name": "send-info",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action": {
+        "default_icon": "logo.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab", "tabs", "alarms"],
+    "background": {
+        "service_worker": "background.js"
+    }
+}

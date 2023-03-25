@@ -1,0 +1,8 @@
+{
+    "allSites": ["youtube.com", "google.com", "stackoverflow.com", "codepen.io", "geeksforgeeks.org", "quora.com", "github.com", "reddit.com", "twitter.com", "discord.gg", "discord.com", "facebook.com", "instagram.com", "wikipedia.org", "127.0.0.1"],
+    "bannedSites": [],
+    "extraSites": ["amazon.in"],
+    "githubUsername": "spuckhafte",
+    "workingRepo": "?tab=repositories",
+    "noUrl": "rickroll"
+}
